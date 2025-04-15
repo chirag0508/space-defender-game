@@ -36,4 +36,4 @@ Before running the game, you need to install the `pygame` library:
    ```bash
    pip install pygame
 
-3. run your program in vs code terminal
+3. run the game from vs code terminal or command prompt
