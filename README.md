@@ -23,8 +23,17 @@ A thrilling space-themed game built with Python, where players control a spacesh
 
 ## Instructions to Play
 
-### 1. Clone the Repository
-First, clone the repository to your local machine:
-```bash
-git clone https://github.com/yourusername/space-defender.git
+### 1. Copy and Paste the Code
 
+1. Copy the entire game code into a new Python file, for example, `space_defender.py`, using **VS Code** or any Python editor of your choice.
+
+### 2. Install Pygame
+
+Before running the game, you need to install the `pygame` library:
+
+1. Open the **Command Prompt (CMD)** or **Terminal**.
+2. Install **Pygame** by running the following command:
+   ```bash
+   pip install pygame
+
+3. run your program in vs code terminal
